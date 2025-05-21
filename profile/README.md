@@ -12,13 +12,5 @@
     <td><a href="https://github.com/AOSP-for-venus/platform_device_xiaomi_venus">StatiXOS</a></td>
     <td>Active</td>
   </tr>
-  <tr align=center>
-    <td><a href="https://github.com/hentaiOS-lahaina/platform_device_xiaomi_venus">hentaiOS (yet to be moved here)</a></td>
-    <td>Work-in-progress</td>
-  </tr>
-  <tr align=center>
-    <td><a href="">Paranoid Android</a></td>
-    <td>Planned</td>
-  </tr>
 </table>
 </div>
